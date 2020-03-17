@@ -22,3 +22,5 @@ print(add (12, 78)) # called
 # code below this is just for fun
 
 x = square(65)
+
+print(x)
