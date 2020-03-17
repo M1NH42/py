@@ -15,3 +15,4 @@ def square (a):
 
 print(square(3)) # square function called
 
+print(sub (12, 32)) # subtract function is called
