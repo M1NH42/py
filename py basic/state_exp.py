@@ -8,4 +8,4 @@ print(type(my_name))
 print(type(my_age))
 
 # add two variables
-print(my_age + len(my_name)) # length function is used to 
+print(my_age + len(my_name)) # length function is used to find length of a string
