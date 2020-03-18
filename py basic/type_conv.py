@@ -8,3 +8,6 @@ print(9, float(9))
 
 print(type(str(435))) # type convrsion to string
 print(type(int('334'))) # type conversion to int
+
+# used in concatenation such as
+print("Age " + str(22))
