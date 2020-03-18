@@ -25,4 +25,4 @@ x = 6
 print(x) # prints x = 6
 
 x += 1
-print(x)
+print(x) # prints x + 1 i.e. 7
