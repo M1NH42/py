@@ -18,3 +18,6 @@ print(type('''This is python'''))
 print('''Floating point number''')
 
 print('Hey there!')
+
+# int data type
+print(type(16590))
