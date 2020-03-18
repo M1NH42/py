@@ -11,3 +11,4 @@ print(type(int('334'))) # type conversion to int
 
 # used in concatenation such as
 print("Age " + str(22))
+print(244 + int("212")) # shows addition of two numbers
