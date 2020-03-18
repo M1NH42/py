@@ -17,3 +17,12 @@ my_age += 1
 print(my_age)
 
 print(((my_age // 13) ** 3) + ((len(my_name) ** 4) // 13))
+
+
+## updating variable
+
+x = 6
+print(x) # prints x = 6
+
+x += 1
+print(x)
