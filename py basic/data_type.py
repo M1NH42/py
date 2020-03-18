@@ -16,3 +16,5 @@ print(type("""I'm trying to learn python language specialization"""))
 print(type('''This is python'''))
 
 print('''Floating point number''')
+
+print('Hey there!')
