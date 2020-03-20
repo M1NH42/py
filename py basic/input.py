@@ -16,11 +16,20 @@ def div(x, y) :
 def mul (x, y) :
     return x * y
 
-# prints message to enter numbers
+# prints message to enter firts number
 x = input("Enter first number: ")
+
+# type casting 'x' because input takes as string
+# so we need to type cast the input to perform
+# different operations
 first_number = int(x)
 
+# prints message to enter second number
 y = input("Enter second number: ")
+
+# type casting 'x' because input takes as string
+# so we need to type cast the input to perform
+# different operations
 second_number = int(y)
 
 # calculate average of two numbers
