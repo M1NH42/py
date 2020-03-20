@@ -16,6 +16,7 @@ def div(x, y) :
 def mul (x, y) :
     return x * y
 
+# prints message to enter numbers
 x = input("Enter first number: ")
 first_number = int(x)
 
