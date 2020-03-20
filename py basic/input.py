@@ -36,13 +36,13 @@ second_number = int(y)
 avg = add (first_number, second_number) / 2
 
 # prints average of two numbers
-print (avg)
+print ("Average of two numbers:",avg)
 
 # prints addition of two numbers
-print(add (first_number, second_number))
+print("Addition of two numbers:",add (first_number, second_number))
 
 # prints difference between two given numbers
-print(sub(first_number, second_number))
+print("Subtraction of two numbers:",sub(first_number, second_number))
 
 # prints multiplication of two numbers
-print(mul (first_number, second_number))
+print("Multiplication o ftwo numbers:",mul (first_number, second_number))
