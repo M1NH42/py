@@ -32,17 +32,35 @@ y = input("Enter second number: ")
 # different operations
 second_number = int(y)
 
+# prints a boundary line
+# print("**************************************")
+
 # calculate average of two numbers
 avg = add (first_number, second_number) / 2
+
+# prints a boundary line
+print("**************************************")
 
 # prints average of two numbers
 print ("Average of two numbers:",avg)
 
+# prints a boundary line
+print("**************************************")
+
 # prints addition of two numbers
 print("Addition of two numbers:",add (first_number, second_number))
+
+# prints a boundary line
+print("**************************************")
 
 # prints difference between two given numbers
 print("Subtraction of two numbers:",sub(first_number, second_number))
 
+# prints a boundary line
+print("**************************************")
+
 # prints multiplication of two numbers
 print("Multiplication o ftwo numbers:",mul (first_number, second_number))
+
+# prints a boundary line
+print("**************************************")
