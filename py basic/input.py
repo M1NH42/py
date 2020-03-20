@@ -60,7 +60,7 @@ print("Subtraction of two numbers:",sub(first_number, second_number))
 print("**************************************")
 
 # prints multiplication of two numbers
-print("Multiplication o ftwo numbers:",mul (first_number, second_number))
+print("Multiplication of two numbers:",mul (first_number, second_number))
 
 # prints a boundary line
 print("**************************************")
