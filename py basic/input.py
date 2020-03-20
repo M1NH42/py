@@ -22,3 +22,7 @@ first_number = int(x)
 y = input("Enter second number: ")
 second_number = int(y)
 
+avg = add (first_number, second_number) / 2
+
+print (avg)
+
