@@ -10,3 +10,7 @@ s = song.split("o")
 # prints s (after splitting through 'o')
 print(s)
 
+# new song
+song = "The rain in Spain..."
+wds = song.split('ai')
+print(wds)
