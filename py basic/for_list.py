@@ -4,5 +4,6 @@
 city = ["paris", "netherland", "london", "singapore"]
 
 # iterating through the list
+# depends on number of items in the list
 for i in city :
     print (i)
