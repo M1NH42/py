@@ -9,3 +9,4 @@ s = song.split("o")
 
 # prints s (after splitting through 'o')
 print(s)
+
