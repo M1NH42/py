@@ -1,3 +1,7 @@
+# this programprints the intermediate result in loop
+# using print statement we can easily know the values
+# of the variables
+
 w = range(10)
 
 tot = 0
