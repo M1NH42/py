@@ -7,3 +7,7 @@ fruits = ["banana", "apple", "grapes", "chikku", "santra"]
 # traversal through the list using for loop
 for i in range(5) :
     print(i, fruits[i])
+
+# traversal using more pythonic approach
+for fruit in fruits:
+    print(fruit)
