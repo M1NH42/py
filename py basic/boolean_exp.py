@@ -15,7 +15,7 @@ print(x != x)
 
 print(not x)
 
-# we'll perfrom "in" in list to evaluate boolean expression
+## we'll perfrom "in" in list to evaluate boolean expression
 
 # list
 names = ["adam", "eve", "peter", "henry", "william"]
@@ -25,3 +25,13 @@ user_input = input("Enter a string to check: ")
 
 # print boolean value after evaluation
 print(user_input in names)
+
+
+## we'll perfrom for string 
+
+# take as tring variable
+s_t = "quarantine"
+
+# ask user to enter a string
+u_i = input("Enter a string : ")
+
