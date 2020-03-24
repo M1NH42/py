@@ -38,4 +38,5 @@ s_t = "quarantine"
 # ask user to enter a string
 u_i = input("Enter a string : ")
 
+# evaluatin sring with boolean expression
 print(u_i in s_t)
