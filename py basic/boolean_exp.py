@@ -14,3 +14,14 @@ print(x >= 32 or x <= 50)
 print(x != x)
 
 print(not x)
+
+# we'll perfrom "in" in list to evaluate boolean expression
+
+# list
+names = ["adam", "eve", "peter", "henry", "william"]
+
+# ask user to enter a string
+user_input = input("Enter a string to check: ")
+
+# print boolean value after evaluation
+print(user_input in names)
