@@ -49,4 +49,4 @@ s_t = "quarantine"
 u_i = input("Enter a string : ")
 
 # evaluatin sring with boolean expression
-print(u_i in s_t)
+print(int(u_i in s_t))
