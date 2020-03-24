@@ -42,7 +42,7 @@ print(number in numbers)
 print("********************************")
 ## we'll perfrom for string 
 
-# take as tring variable
+# take as string variable
 s_t = "quarantine"
 
 # ask user to enter a string
