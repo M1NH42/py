@@ -7,3 +7,10 @@
 # * in
 # * not in
 
+x = 32
+# prints boolean result
+print(x >= 32 or x <= 50)
+
+print(x != x)
+
+print(not x)
