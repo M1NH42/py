@@ -1,4 +1,6 @@
-# Count vowels
+# Count vowels using python 3 
+# using list of vowels and for loop
+# also if conditional statements
 
 # list of vowels
 vowels = ['a', 'e', 'i', 'o', 'u']
