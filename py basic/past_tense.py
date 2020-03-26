@@ -18,4 +18,8 @@ for word in words :
     else :
         past_tense.append(word + 'ed')
 
-# print the new list of past tense
+# print the words list
+print(words)
+
+# print new list containing past tense
+print(past_tense)
