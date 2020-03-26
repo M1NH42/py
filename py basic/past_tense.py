@@ -21,5 +21,7 @@ for word in words :
 # print the words list
 print(words)
 
+print("******************************************************************************")
+
 # print new list containing past tense
 print(past_tense)
