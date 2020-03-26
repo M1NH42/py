@@ -1,4 +1,5 @@
-
+# About: Implementation of the accumulator program
+# in python 3 specialization
 
 # ask to enter string
 phrase = input("Enter a string: ")
