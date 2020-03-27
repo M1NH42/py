@@ -2,10 +2,10 @@
 ### string by using below method
 
 # string
-greeting = "Hello, world!"
+greeting = "Hero Alom"
 
 # new string using previous one
-newGreeting = 'J' + greeting[1:]
+newGreeting = greeting [ : 7] + 'a' + greeting [8 : ]
 
 # print new string
 print(newGreeting)
