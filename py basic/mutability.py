@@ -3,7 +3,10 @@
 
 friends = ['nanna', 'choocha', 'sharma', 'roxy', 'horny']
 
-# change values of the list friedns
+# print the above list
+print (friends)
+
+## change values of the list friedns
 
 # index 1
 friends [1] = 'slut'
