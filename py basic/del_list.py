@@ -2,3 +2,12 @@
 ### used to delete list items as shown below
 
 # list
+numbers = [1,2,3,4,5,6,7,8,9,0]
+
+#prints list
+print(numbers)
+
+del numbers [ : 5]
+
+# print affter deletion
+print(numbers)
