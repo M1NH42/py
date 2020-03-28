@@ -16,7 +16,7 @@ for num in nums :
     accum.append( x )
 
     # prints at every iteration
-    print("After first: ", accum)
+    print("After iteration: ", accum)
 
 # prints the accum list after squaring and appending
 print("Final list: ", accum)
