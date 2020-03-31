@@ -5,7 +5,7 @@
 # open file and link the file object to variable
 file_ref = open("../datasets/olympic.txt", "r")
 
-# print(file_ref)
+print(file_ref)
 
 # closes the file object
 # have to close after every use
