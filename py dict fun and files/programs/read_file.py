@@ -3,7 +3,7 @@
 #       * open("file_name", "mode of operation")
 
 # open file and link the file object to variable
-file_ref = open("olympic.txt", "r")
+file_ref = open("../datasets/olympic.txt", "r")
 
 # print(file_ref)
 
