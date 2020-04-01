@@ -6,6 +6,6 @@
 
 # can use "with" keyword to avoid writing
 # the easily forgettable close() method
-with open("olympics.txt", "r") as od : # store it as file name here it is od : olympics data
+with open("../programs/olympics.txt", "r") as od : # store it as file name here it is od : olympics data
     for line in od :
         print(line)
