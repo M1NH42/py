@@ -15,7 +15,8 @@ out_file.write('\n')
 
 # output each row of the file
 for olympian in olympians :
-    row_string = '{}, {}, {}'.format(olympians[0], olympians[1], olympians[2])
+    # row_string = '{}, {}, {}'.format(olympians[0], olympians[1], olympians[2])
+    row_string = ','.join([olympians[0], olympians[1], olympians[2]])
     out_file.write(row_string)
     out_file.write('\n')
 #print(out_file)
