@@ -18,3 +18,9 @@ eng2sp['three'] = 'tres'
 
 # print the dictionary
 print(eng2sp)
+
+# new dictionary definition
+new_dictionary = {'gold': 12, 'silver': 21, 'bronze': 23}
+
+# print dictionary
+print(new_dictionary)
