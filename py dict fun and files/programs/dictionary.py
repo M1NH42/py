@@ -24,3 +24,21 @@ new_dictionary = {'gold': 12, 'silver': 21, 'bronze': 23}
 
 # print dictionary
 print(new_dictionary)
+
+# assign (key, value) to a variable
+medal = new_dictionary['silver']
+
+# print variable value
+print(medal)
+
+# delete an element
+del new_dictionary['bronze']
+
+# after deletion
+print("*****After Deletion*****")
+
+# print after delting a pair
+print(new_dictionary)
+
+# INFO: This will print the dictionary elements in an unorderd format
+# which changes every time we run the program
