@@ -45,7 +45,7 @@ print("*****After Updation*****")
 new_dictionary['silver'] += 10
 
 # prints dictionary after declaration
-print(new_dictionary)
+print("Dictionary after updation: ", new_dictionary)
 
 # INFO: This will print the dictionary elements in an unorderd format
 # which changes every time we run the program
