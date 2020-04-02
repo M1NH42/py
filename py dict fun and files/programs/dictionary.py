@@ -42,3 +42,10 @@ print(new_dictionary)
 
 # INFO: This will print the dictionary elements in an unorderd format
 # which changes every time we run the program
+
+# working of len() of the python 3 module
+
+# prints length of the dictionary
+# which means it will print the number of
+# key value pair present in the dictionary
+print(len(new_dictionary))
