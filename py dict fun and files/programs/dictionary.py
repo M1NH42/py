@@ -10,7 +10,7 @@ eng2sp = {}
 # store 'uno' to key 'one'
 eng2sp['one'] = 'uno'
 
-# link '' to key ''
+# link 'two' to key 'dos'
 eng2sp['two'] = 'dos'
 
 # link value 'tres' to key 'three'
