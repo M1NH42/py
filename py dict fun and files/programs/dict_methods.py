@@ -12,3 +12,8 @@ print(boom)
 print(inventory.values())
 
 print(inventory.items())
+
+print('bananas' in inventory)
+print('cherries' in inventory)
+
+print(inventory.get('bananas'))
