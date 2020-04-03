@@ -8,3 +8,5 @@ for key in inventory:
 
 boom = list(inventory)
 print(boom)
+
+print(inventory.values())
