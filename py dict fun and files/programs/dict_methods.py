@@ -17,3 +17,5 @@ print('bananas' in inventory)
 print('cherries' in inventory)
 
 print(inventory.get('bananas'))
+
+print(inventory.get('cherries', 0))
