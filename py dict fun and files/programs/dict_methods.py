@@ -10,3 +10,5 @@ boom = list(inventory)
 print(boom)
 
 print(inventory.values())
+
+print(inventory.items())
