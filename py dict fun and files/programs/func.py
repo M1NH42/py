@@ -22,7 +22,9 @@ def prod(lst):
     # returns res
     return res
 
-
+# define a function : count_num()
+# to count the number of elements
+# present in the list given by the user
 def count_num(lst) :
     num_count = 0
     for num in lst :
