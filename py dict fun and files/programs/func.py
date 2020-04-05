@@ -6,4 +6,8 @@ def sum(lst):
         tot += num
     return tot
 
-def 
+def prod(lst):
+    res = 1
+    for num in lst :
+        res *= num
+    return res
