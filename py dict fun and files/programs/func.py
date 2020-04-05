@@ -22,6 +22,12 @@ def prod(lst):
     # returns res
     return res
 
+def count_num(lst) :
+    num_count = 0
+    for num in lst :
+        num_count += 1
+    return num_count
+
 # called
 sum_list = sum([1, 2, 3, 5])
 
