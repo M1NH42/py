@@ -31,6 +31,7 @@ def count_num(lst) :
         num_count += 1
     return num_count
 
+# called count_num()
 print(count_num([1, 2, 4, 5, 7, 9]))
 
 # called
