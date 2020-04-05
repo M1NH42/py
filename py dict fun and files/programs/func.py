@@ -16,6 +16,6 @@ sum_list = sum([1, 2, 3, 5])
 
 print(sum_list)
 
-prod_list = prod([[1, 2, 3, 5]])
+prod_list = prod([1, 2, 3, 5])
 
 print(prod_list)
