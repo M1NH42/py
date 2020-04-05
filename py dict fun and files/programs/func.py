@@ -19,12 +19,17 @@ def prod(lst):
     # and keep on mult to num res
     for num in lst :
         res *= num
+    # returns res
     return res
 
+# called
 sum_list = sum([1, 2, 3, 5])
 
+# output result of sum
 print(sum_list)
 
+# called prod()
 prod_list = prod([1, 2, 3, 5])
 
+# output result
 print(prod_list)
