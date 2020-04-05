@@ -11,3 +11,11 @@ def prod(lst):
     for num in lst :
         res *= num
     return res
+
+sum_list = sum([1, 2, 3, 5])
+
+print(sum_list)
+
+prod_list = prod([[1, 2, 3, 5]])
+
+print(prod_list)
