@@ -16,3 +16,5 @@ def sum_of_square(fn, sn, tn) :
     return sos
 
 print(sum_of_square(2, 3, 4))
+
+print(sos)
