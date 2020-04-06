@@ -3,4 +3,7 @@
 
 bond = ("James", "Bond", 1999, "Actresses", "Guns", "Cars")
 
-print(bond [4])
+# or equivalent
+bond = "James", "Bond", 1999, "Actresses", "Guns", "Cars"
+
+print(bond [3])
