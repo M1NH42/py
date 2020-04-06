@@ -22,4 +22,9 @@ def sum_of_square(fn, sn, tn) :
 # prints sum of squares
 print(sum_of_square(2, 3, 4))
 
-print(sos) # results in error because sos is a local variable to sum_of_square
+# not defined globally sos
+# print(sos) # results in error because sos is a local variable to sum_of_square
+
+# here we declare
+sos = 23
+print(sos)
