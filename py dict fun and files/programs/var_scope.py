@@ -26,5 +26,5 @@ print(sum_of_square(2, 3, 4))
 # print(sos) # results in error because sos is a local variable to sum_of_square
 
 # here we declare
-sos = 23
-print(sos)
+sos = 23 # global variable visible to whole program
+print(sos) # prints the sos global variable
