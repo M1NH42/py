@@ -6,4 +6,5 @@ bond = ("James", "Bond", 1999, "Actresses", "Guns", "Cars")
 # or equivalent
 bond = "James", "Bond", 1999, "Actresses", "Guns", "Cars"
 
+# prints value at index 3
 print(bond [3])
