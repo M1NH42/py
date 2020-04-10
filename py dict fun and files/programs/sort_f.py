@@ -26,3 +26,14 @@ print("********************SORTED() FUNCTION***********************")
 # In this code block we'll implement a function called "sorted(pass params)"
 # and this can be done with any type of sequance not just lists
 
+# list two
+l2 = [-2, 2, 1, 0, -9, 73, -32, 43, 22, -100]
+
+l3 = sorted(l2)
+print("The sorted list: ",l3)
+
+# prints return of sorted function
+print("The return of sorted() : ",sorted(l2))
+
+# the original list
+print("The original list : ",l2)
