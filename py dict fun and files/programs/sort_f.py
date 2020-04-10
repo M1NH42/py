@@ -1,5 +1,6 @@
 # About : In this program we will implement/use built-in
-# sorting function in python language
+# sorting function in python language and methods that are
+# used most commonly
 
 # first we'll use the method sort()
 # which does not return anything but actually modifies
@@ -19,3 +20,9 @@ print(l1)
 # print what sort() method returns
 print(l1.sort())
 # it returns NONE
+
+print("********************SORTED() FUNCTION***********************")
+
+# In this code block we'll implement a function called "sorted(pass params)"
+# and this can be done with any type of sequance not just lists
+
