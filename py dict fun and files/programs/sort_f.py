@@ -29,7 +29,10 @@ print("********************SORTED() FUNCTION***********************")
 # list two
 l2 = [-2, 2, 1, 0, -9, 73, -32, 43, 22, -100]
 
+# sort and store in l3
 l3 = sorted(l2)
+
+# prints l3: which is actually sorted list
 print("The sorted list: ",l3)
 
 # prints return of sorted function
