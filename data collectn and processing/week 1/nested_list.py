@@ -22,3 +22,12 @@ new_list = animals [2]
 
 # print index 2of new list
 print(new_list [2])
+
+
+# ********************** Dictionary **************************
+
+# dictionary
+some_info = [{'name': 'Minhaz', 'age': 22, 'sex': 'male', 'height': 5.8}, {'name': 'Sahil', 'age':21, 'sex': 'male','height': 5.7}]
+
+for key in some_info :
+    print(key)
