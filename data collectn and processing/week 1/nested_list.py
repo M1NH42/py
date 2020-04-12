@@ -29,7 +29,7 @@ print(new_list [2])
 # dictionary
 some_info = [{'name': 'Minhaz', 'age': 22, 'sex': 'male', 'height': 5.8}, {'name': 'Sahil', 'age':21, 'sex': 'male','height': 5.7}]
 
-# prints keys of dictionary
+# prints keys of dictionary 
 for info in some_info :
     for i in info :
         print(i)
