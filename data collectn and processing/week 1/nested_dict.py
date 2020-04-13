@@ -17,7 +17,9 @@ info = {'personal_data':
          }
         }
 
+# use index for extracting values from nested dictionary
 color = info['personal_data']['physical_features']['color']['hair']
 
+# print value of the color variable
 print(color)
 
