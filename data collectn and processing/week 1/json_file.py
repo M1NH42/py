@@ -14,4 +14,11 @@ def pretty(obj) :
 
 d = {'key1': {'c': True, 'a': 90, '5': 50}, 'key2':{'b': 3, 'c': "yes"}}
 
+print("****************** type of d ************************\n\n")
+print(type(d))
+
+print("\n\n****************** prints dictionary ************************\n\n")
+print(d)
+
+print("\n\n****************** after dumps function ************************\n\n")
 print(pretty(d))
