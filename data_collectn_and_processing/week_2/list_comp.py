@@ -10,10 +10,15 @@ tester = {'info': [{"name": "Lauren", 'class standing': 'Junior', 'major': "Info
 import json
 print(json.dumps(tester, indent=4))
 
-
+# extracting info
 inner_list = tester['info']
+
+# better representation
 print(json.dumps(inner_list,indent=2))
 
+
+# list comprehension
 compri = [name['name'] for name in inner_list]
 
+# print the final result
 print(compri)
