@@ -29,6 +29,10 @@ print(double_stuff(things))
 
 states = ['hp','mp','up','tn','ap','asm','pb','mh']
 
-u_states = map (lambda st: st.upper(), states)
+def f (st) :
+    return st.upper()
+
+u_states = map(f, states)
+# u_states = map (lambda st: st.upper(), states)
 
 print(u_states)
