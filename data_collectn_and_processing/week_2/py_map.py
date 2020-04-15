@@ -25,6 +25,8 @@ print(things)
 # print by calling the defined function
 print(double_stuff(things))
 
+#print(list(map(lambda v: v * 4, things))
+
 ####################### map() ##################################
 
 #  map takes two arguments, a function and a sequence. 
