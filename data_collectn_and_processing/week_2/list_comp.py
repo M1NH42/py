@@ -13,3 +13,7 @@ print(json.dumps(tester, indent=4))
 
 inner_list = tester['info']
 print(json.dumps(inner_list,indent=2))
+
+compri = [name['name'] for name in inner_list]
+
+print(compri)
