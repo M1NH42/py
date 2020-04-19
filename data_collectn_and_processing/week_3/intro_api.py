@@ -5,7 +5,7 @@ import requests
 import json
 
 # get the page
-page = requests.get('https://api.datamuse.com/words?rel_rhy=funny')
+page = requests.get('https://api.datamuse.com/words?rel_rhy=go')
 
 # type
 print(type(page))
