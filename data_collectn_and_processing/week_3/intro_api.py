@@ -29,3 +29,9 @@ print(page_obj[0])
 print()
 
 print(json.dumps(page_obj, indent=2))
+
+############# some thing with url and its params ##################
+
+d = {'q': '"violins and guitars"', 'tbm': 'isch'}
+results = requests.get("https://google.com/search", params=d)
+print(results.url)
