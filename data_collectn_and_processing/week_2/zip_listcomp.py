@@ -41,3 +41,11 @@ b = [5, 4, 3, 7]
 temp_list = [x+y for (x, y) in list(zip(a, b))]
 
 print(temp_list)
+
+####### beauty ############
+L1 = [1, 5, 2, 16, 32, 3, 54, 8, 100]
+L2 = [1, 3, 10, 2, 42, 2, 3, 4, 3]
+
+L3 = [x + y for (x, y) in zip(L1, L2) if x>10 and y<5] # what a feature
+
+print(L3)
