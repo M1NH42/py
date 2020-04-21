@@ -15,6 +15,10 @@ class Point():
     def get_y(self):
         return self.y
 
+    # distance from origin
+    def distance_from_origin(self):
+        return ((self.x ** 2) + (self.y ** 2)) ** .5
+
 point1 = Point(12, 43)
 
 # setting instance of point()
@@ -23,3 +27,8 @@ point2 = Point(32, 23)
 
 # calling get functions to get values of x and y
 print(list([point1.get_x(), point1.get_y()]))
+
+
+print()
+
+print("Distance from the origin : ", point1.distance_from_origin())
